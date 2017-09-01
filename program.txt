@@ -1,3 +1,6 @@
 Main(){
 	pring "helloword"
 }
+Main1(){
+	pring "helloword1"
+}
